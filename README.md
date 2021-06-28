@@ -31,5 +31,5 @@
 - yarn typeorm migration:run
 - yarn dev
 
-# :memo: Licença
+# :memo: License
 [MIT license](https://opensource.org/licenses/MIT).
